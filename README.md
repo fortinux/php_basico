@@ -1,4 +1,3 @@
-# Hello world!
+# Hola mundo!
 
-This is a placeholder README file for your PHP project. Update it with information about your
-project, so others can find out more.
+Tutorial básico sobre el lenguaje de programação PHP.
